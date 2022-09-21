@@ -4,8 +4,7 @@
 using namespace std;
 
 int main() {
-    // Complete the code.
-    int a ;
+    int a;
     long b;
     char c;
     float d;
@@ -14,7 +13,7 @@ int main() {
     cout<< a<<endl;
     cout<<b<<endl;
     cout<<c<<endl;
-    cout<<setprecision(20)<<d<<"\n";
-    cout<<setprecision(20)<<e<<"\n";
+    cout<<setprecision(20)<<d<<endl;
+    cout<<setprecision(20)<<e<<endl;
     return 0;
 }
